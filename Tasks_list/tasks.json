@@ -1,0 +1,20 @@
+{
+    "nextId": 4,
+    "tasks": [
+        {
+            "id": 1,
+            "name": "новая задача",
+            "status": false
+        },
+        {
+            "id": 2,
+            "name": "еще одна задача",
+            "status": false
+        },
+        {
+            "id": 3,
+            "name": "выполненная задача",
+            "status": true
+        }
+    ]
+}
